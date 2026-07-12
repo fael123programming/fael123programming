@@ -1,29 +1,70 @@
-### Hey, how have you been?
-### Welcome to my profile, I'm Rafael Fonseca!
+# Olá, sou Rafael Guimarães 👋
 
-<div>
-  <a href="https://github.com/Fael123Programming">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fael123Programming&show_icons=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fael123Programming&layout=compact&langs_count=5">  
-</div>  
+**Desenvolvedor Full-Stack | Python, Dados e Automação**
 
-<div style="display: inline_block"> <br>
-  <img align="center" alt="java_icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="html-icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="css_icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="js_icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="c_icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="cpp_icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="py_icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="dart_icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="dart_icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-</div>  
-<br>
-<div>
-  <a href="https://www.youtube.com/channel/UCw3jbZGzZTHlGcYiEe7KpIg" target="_blank"> <img alt="youtube_icon" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" > </a>
-  <a href="mailto: rafaelfonseca1020@gmail.com" target="_blank"> <img alt="gmail_icon" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
-  <a href="https://www.instagram.com/rafaelfonseca1020/" target="_blank"> <img alt="instagram_icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" > </a>
-  <a href="https://www.linkedin.com/in/rafael-fonseca-9a8b251a9" target="_blank"> <img alt="linkedin_icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-  <a href="https://discord.io/gr_eece" target="_blank"> <img alt="discord_icon" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" > </a>
-  <a href="" target=""> <img alt="" src="" > </a>
+Bacharel em Ciência da Computação pelo Instituto Federal Goiano, atuo no desenvolvimento de aplicações web, APIs, automações e soluções orientadas a dados. Atualmente trabalho com **React, TypeScript e .NET** e também possuo experiência prática com **Python, Pandas, PostgreSQL, FastAPI, SQLAlchemy e Apache Airflow**.
+
+> Computer Science graduate and full-stack developer with experience in web applications, APIs, data pipelines and automation. Fluent in English and open to remote opportunities.
+
+## Sobre mim
+
+- 💻 **Desenvolvedor Full-Stack** na Oficina Conectada Tecnologia by Nexer desde fevereiro de 2026.
+- 🐍 Experiência com Python aplicado a dados, APIs, automação e processamento de informações.
+- 📊 Atuação como **Engenheiro de Dados** em projeto acadêmico com o MAPA, trabalhando com Airflow, Pandas e PostgreSQL.
+- 🏛️ Experiência anterior desenvolvendo ferramentas internas, dashboards e automações para o Cartório do 1º Ofício de Morrinhos/GO.
+- 🎓 Bacharel em Ciência da Computação pelo IF Goiano — Campus Morrinhos, formado em dezembro de 2025.
+- 🌍 Mobilidade acadêmica internacional no Instituto Politécnico de Bragança, Portugal, em 2023.
+- 🗣️ Inglês fluente.
+- 📍 Caldas Novas, Goiás — disponível para trabalho remoto.
+
+## Tecnologias
+
+**Linguagens:** Python, TypeScript, JavaScript, C# e SQL  
+**Back-end e dados:** FastAPI, Pydantic, SQLAlchemy, Pandas, Apache Airflow, PostgreSQL e .NET  
+**Front-end:** React, Tailwind CSS, HTML e CSS  
+**Engenharia:** Git, Docker, Docker Compose, Pytest, APIs REST, ETL e modelagem relacional
+
+## Experiência profissional
+
+### Desenvolvedor Full-Stack — Oficina Conectada Tecnologia by Nexer
+**fev/2026 — atual**
+
+Desenvolvimento e evolução de aplicações do setor automotivo com React, TypeScript e .NET, integração de APIs REST e implementação de funcionalidades orientadas a regras de negócio.
+
+### Técnico de Informática e Desenvolvedor — Cartório do 1º Ofício de Morrinhos/GO
+**set/2024 — jan/2026**
+
+Desenvolvimento de ferramentas internas com Python e Streamlit, sistemas com React e Django, dashboards, automações e soluções integradas a banco de dados.
+
+### Engenheiro de Dados — Projeto acadêmico com o MAPA
+**2022 — 2023**
+
+Contribuição em DAGs e pipelines para extração, processamento e exportação de dados públicos utilizando Python, Apache Airflow, Pandas e PostgreSQL.
+
+## Projetos selecionados
+
+| Projeto | Objetivo | Tecnologias | Período |
+| --- | --- | --- | --- |
+| [sfb-dags](https://github.com/fael123programming/sfb-dags) | Contribuições em pipelines de dados públicos, integração de tarefas Airflow e exportação de tabelas PostgreSQL para CSV. | Python, Airflow, Pandas, PostgreSQL | 2022–2023 |
+| [IFText API](https://github.com/fael123programming/iftext_api) | API para análise de sentimento e sumarização de textos. | FastAPI, Pydantic, Transformers | jul/2024 |
+| [Bible Text Analysis](https://github.com/fael123programming/bible-text-analysis) | Análise textual com TF-IDF, similaridade fuzzy, sentimento e visualizações. | Python, Pandas, scikit-learn | set/2024 |
+| [AI Accelerator](https://github.com/fael123programming/ai-accelerator) | Aplicação para refinamento de prompts com cache semântico. | Streamlit, Gemini, SQLite | ago/2025 |
+
+## Formação e certificações
+
+- **Bacharelado em Ciência da Computação** — IF Goiano, Campus Morrinhos (2020–2025).
+- **Mobilidade acadêmica internacional** — Instituto Politécnico de Bragança, Portugal (2023).
+- **Python for Everybody Specialization** — University of Michigan / Coursera (2025).
+- **Data Analytics** — IBM / Coursera (2025).
+
+## Estatísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fael123programming&show_icons=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub de Rafael Guimarães" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fael123programming&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Linguagens mais utilizadas por Rafael Guimarães" />
 </div>
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/rafael-guimar%C3%A3es-9a8b251a9/)
+- [E-mail](mailto:rafaelfonseca1020@gmail.com)
